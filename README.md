@@ -13,9 +13,10 @@ Bootstrap Starter Template for easy Project Setup
 * gulp-sass   : 3.1.0
 
 
-##Steps
+## Steps
 
 * git clone https://github.com/avgkudey/bootstrap_starter.git
 * cd bootstrap_starter
 * npm install
 * npm start
+* go to localhost:3000
